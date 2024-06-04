@@ -1,8 +1,31 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: black;
 }
 
 a {
   color: #00B7FF;
+}
+h3{
+  color: white;
+  font-size: 20px;
+  
+}
+img{
+  height: 40%;
+  width: 40%;
+}
+button{
+  height: 35px;
+  width: 100px;
+  border-radius: 50px;
+  font-size: 15px;
+  border: none;
+  font-weight: 600;
+  background: linear-gradient(to left, #33ccff 0%, #ff99cc 100%);}
+button:hover{
+  background-color: #00B7FF;
+  color: white;
+  transition: 1s;
 }
