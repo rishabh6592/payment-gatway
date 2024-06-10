@@ -35,6 +35,6 @@ button{
   background: linear-gradient(to left, #33ccff 0%, #ff99cc 100%);}
 button:hover{
   background-color: #00B7FF;
-  color: firebrick;
+  color: rgb(221, 36, 36);
   transition: 1s;
 }
